@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderniche
-- 👀 I’m interested in web development, improving UI/UX
-- 🌱 I’m currently learning React, unit 5 on a Front-End Web Developer Professional Course
+- 👀 I’m interested in data analysis, web development, improving UI/UX
+- 🌱 I’m currently completing the final capstone project for the Google Data Analysis Professional Certificate.
 - 💞️ I’m looking to collaborate on beginner projects and learn more.
 - 📫 How to reach me ... you can reach me at nicolahill75@gmail.com
 
